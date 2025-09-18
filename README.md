@@ -23,9 +23,7 @@ To run this project on Google Colab:
    - `Functions.py`
    - `Sport_car_price.csv`
 
-2. Install the required libraries that aren't available by default in Colab. Most importantly, install CatBoost with:
-   ```pip install catboost
-   ```
+2. Install the required libraries that aren't available by default in Colab. Most importantly, install CatBoost.
 
 3. Note that the University of Bologna logo image referenced in the notebook will not be visible in Colab as the file `unibo_logo.png` is not provided. This doesn't affect the functionality of the code.
 
@@ -66,5 +64,10 @@ The best performing model was CatBoost, achieving:
 Suggestions for extending the project are included in the notebook's conclusion section.
 
 ## Contributors
-- **Vittorio Caputo** 
-- **Federico Collepardo**
+- Vittorio Caputo
+- Federico Collepardo
+
+## License
+
+This project was developed as part of the **Optimization and Machine Learning Course** at the University of Bologna.
+
