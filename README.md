@@ -50,6 +50,10 @@ The best performing model was CatBoost, achieving:
 - Test R² score: 0.909 (after tuning)
 - Significant improvement over linear regression (R²: 0.591)
 
+<p align="center">
+  <img src="figs/Result.png" alt="Results" width="500">
+</p>
+
 ## How to Use
 1. Ensure all files are in the same directory
 2. Run the Jupyter notebook cells sequentially
